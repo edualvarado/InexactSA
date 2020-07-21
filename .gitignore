@@ -1,0 +1,11 @@
+# PyCharm
+*.idea
+
+# Folders
+/pretrained_model
+/resources
+
+
+
+
+

@@ -2,6 +2,9 @@
 *.idea
 /__pycache__
 
+# Photoshop
+*.psd
+
 # Folders
 /pretrained_model
 /resources
